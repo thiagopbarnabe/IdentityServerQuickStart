@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\bin\Debug\netcoreapp2.0\IdentityServerQuickStart.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\bin\Debug\netcoreapp2.0\IdentityServerQuickStart.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\bin\Debug\netcoreapp2.0\IdentityServerQuickStart.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\bin\Debug\netcoreapp2.0\IdentityServerQuickStart.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\bin\Debug\netcoreapp2.0\IdentityServerQuickStart.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\IdentityServerQuickStart\obj\Debug\netcoreapp2.0\IdentityServerQuickStart.pdb

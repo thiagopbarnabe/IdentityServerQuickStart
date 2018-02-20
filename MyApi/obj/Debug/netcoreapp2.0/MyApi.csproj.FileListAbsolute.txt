@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\bin\Debug\netcoreapp2.0\MyApi.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\bin\Debug\netcoreapp2.0\MyApi.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\bin\Debug\netcoreapp2.0\MyApi.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\bin\Debug\netcoreapp2.0\MyApi.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\bin\Debug\netcoreapp2.0\MyApi.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MyApi\obj\Debug\netcoreapp2.0\MyApi.csprojResolveAssemblyReference.cache

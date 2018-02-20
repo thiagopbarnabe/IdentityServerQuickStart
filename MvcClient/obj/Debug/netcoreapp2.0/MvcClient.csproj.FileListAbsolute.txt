@@ -1,0 +1,11 @@
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\thiago.barnabe\Documents\Source\Drafts\IdentityServerQuickStart\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb
